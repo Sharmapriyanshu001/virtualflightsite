@@ -115,12 +115,6 @@ const Home = () => {
             <p>
               To keep Virtual Flight free for everyone, our website and game may use Google AdMob advertising services to display relevant ads.
             </p>
-            <div style={{ marginTop: '1.5rem', padding: '1rem', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '0.5rem', display: 'inline-block' }}>
-              <p style={{ fontSize: '0.875rem', color: 'var(--primary)', marginBottom: '0.5rem', fontWeight: 600 }}>App-Ads.txt Record:</p>
-              <code style={{ fontSize: '0.875rem', color: 'var(--text-main)', userSelect: 'all' }}>
-                google.com, pub-7195489757205809, DIRECT, f08c47fec0942fa0
-              </code>
-            </div>
           </div>
         </div>
       </section>
